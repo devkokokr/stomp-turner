@@ -57,6 +57,3 @@ idf.py -p <PORT> flash monitor
 
 회로도, 거버 파일, 3D 모델은 [`hardware/`](hardware/)에 있습니다.
 
-## 라이선스
-
-아직 정하지 않았습니다. 릴리즈 시 하드웨어 파일과 함께 추가할 예정입니다.
