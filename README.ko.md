@@ -55,7 +55,7 @@ idf.py -p <PORT> flash monitor
 
 ## 하드웨어 소스
 
-회로도, 거버 파일, 3D 모델은 [`hardware/`](hardware/)에 있습니다. BOM은 제작과 검증이 끝난 뒤 추가할 예정입니다. 이 프로젝트의 PCB 제작과 조립은 [PCBWay](https://www.pcbway.com/)의 스폰서십으로 진행됩니다.
+회로도, 거버 파일, 3D 모델은 [`hardware/`](hardware/)에 있습니다.
 
 ## 라이선스
 
