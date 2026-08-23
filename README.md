@@ -56,6 +56,3 @@ idf.py -p <PORT> flash monitor
 ## Hardware source
 
 Schematic, Gerber files, and 3D model are in [`hardware/`](hardware/).
-## License
-
-TBD. Will be added alongside the hardware files at release.
