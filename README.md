@@ -55,8 +55,7 @@ idf.py -p <PORT> flash monitor
 
 ## Hardware source
 
-Schematic, Gerber files, and 3D model are in [`hardware/`](hardware/). BOM will follow once the build is finished and verified. PCB fabrication and assembly for this project are sponsored by [PCBWay](https://www.pcbway.com/).
-
+Schematic, Gerber files, and 3D model are in [`hardware/`](hardware/).
 ## License
 
 TBD. Will be added alongside the hardware files at release.
